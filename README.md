@@ -5,7 +5,7 @@ This is an academic project developed as part of a course at Efrei Paris.
 📚 Description
 
 The objective was to design and implement a database to manage NPCs (Non-Playable Characters) for a fictional fantasy video game.  
-Note: The game does not actually exist — the project required creativity to populate the database and write queries for data exploration.
+Note: The game does not actually exist the project required creativity to populate the database and write queries for data exploration.
 
 🎯 Purpose
 
@@ -30,4 +30,4 @@ This project served as a practical application of all the concepts learned durin
 🚀 Author
 
 Project by Paul-Alex Yao 
-Efrei Paris — Academic Coursework Project
+Efrei Paris Academic Coursework Project
